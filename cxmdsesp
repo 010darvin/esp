@@ -114,3 +114,4 @@ game:GetService("Players").PlayerRemoving:Connect(function(v)
 end)
 
 game:GetService("Players").LocalPlayer.NameDisplayDistance = 0
+game:GetService("Players").LocalPlayer.name
